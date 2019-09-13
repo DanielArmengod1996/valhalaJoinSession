@@ -1,4 +1,5 @@
 # valhala join session
+![alt text](https://github.com/DanielArmengod1996/valhalaJoinSession/blob/master/github/imgs/valhalasession.png)
 
 # hello-world
 
